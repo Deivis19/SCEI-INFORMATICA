@@ -1,0 +1,9 @@
+seed_dirs_expected=22
+seed_dirs_in_db=23
+extra_dirs:
+Auditoria Interna
+seed_equipos_expected=44
+equipos_info_in_db=46
+extra_equipos:
+000000000CPC039
+89u98u89trg
